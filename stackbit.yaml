@@ -11,8 +11,8 @@ logicFields:
   - order
   - background_image_opacity
   - bg_image_primary_opacity
-cmsName: git
-nodeVersion: 12
+cmsName: netlifycms
+nodeVersion: 16
 models:
   config:
     type: data
